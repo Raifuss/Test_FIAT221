@@ -1,0 +1,15 @@
+function Laeberkaes(int Dicke) // Dicke in mm angeben
+{
+  if (Dicke < 20)
+  {
+    echo "Des isch zwenig, dua mehr nauf!";
+    return 1;
+   }
+   else
+   {
+    echo "Des isch guad, und no Ketchup bitte!";
+    return 0;
+   }
+ 
+}
+
