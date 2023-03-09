@@ -5,11 +5,15 @@ function Laeberkaes(int Dicke) // Dicke in mm angeben
     echo "Des isch zwenig, dua mehr nauf!";
     return 1;
    }
-   else
+   elseif
    {
     echo "Des isch guad, und no Ketchup bitte!";
     return 0;
    }
- 
+   else
+   {
+    echo "I brauch an Senf du Bazi!"
+   }
+  return 0;
 }
 
