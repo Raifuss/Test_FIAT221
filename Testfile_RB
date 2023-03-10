@@ -16,4 +16,4 @@ function Laeberkaes(int Dicke) // Dicke in mm angeben
    }
   return 0;
 }
-
+Kann man hier was schreiben ? 
